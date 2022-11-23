@@ -10,7 +10,7 @@
 
 -👨‍💻 I hope to grow my interest in Web Development and turn this passion into a life changing career choice. Feel free to look through my work and provide any feedback as I am still learning and would cherish the opportunity to learn anything new!
 
--❤️ I would love to eventually learn mroe about backend development so that I might be able to become a full stack developer one day.
+-❤️ I would love to eventually learn more about backend development so that I might be able to become a full stack developer one day.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/john-foxwell-79b084157/">
