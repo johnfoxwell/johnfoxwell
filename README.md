@@ -1,8 +1,8 @@
 # 🦊John Foxwell
 
-**`Aspiring Web Developer`**
+**`Aspiring Developer`**
 
-👋 Hi! I am a new programmer learning frontend and backend code 👋
+👋 Hi! I am a programmer learning frontend and backend code 👋
 
 **About me**
 
@@ -15,8 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/john-foxwell-79b084157/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width ="50px" alt="LinkedIn" title="Check out my LinkedIn" /></a>
-  <a href="https://replit.com/@johnfoxwell">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" width ="50px" alt="Replit" title="Check out my Replit" /></a>
+
 </p>
 
 ---
