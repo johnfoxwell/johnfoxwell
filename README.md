@@ -12,12 +12,6 @@
 
 -❤️ I would really love to eventually learn Linux by trying out Ubuntu on one of my old computers or even getting started with Java to better familiarize myself with OOP.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/john-foxwell-79b084157/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width ="50px" alt="LinkedIn" title="Check out my LinkedIn" /></a>
-
-</p>
-
 ---
 
 ### Tools and Languages
