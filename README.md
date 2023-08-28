@@ -1,12 +1,12 @@
 # 🦊John Foxwell
 
-**`Aspiring Developer`**
+**`Aspiring Web Developer`**
 
-👋 Hi! I am a programmer learning frontend and backend code 👋
+👋 Hi! I am a new programmer learning backend code 👋
 
 **About me**
 
--🌱 I've familiarized myself with MERN stack and I'm currently learning Python and mySQL to learn more about backend development. I am also working on building up my portfolio with some simple projects to showcase my work and any new techniques I learn along the way.
+-🌱 I've familiarized myself with MERN stack and I'm currently learning more about Python and mySQL to understand backend development better. I am also working on building up my portfolio with some simple projects to showcase my work and any new techniques I learn along the way.
 
 -👨‍💻 I hope to grow my interest in Web Development and turn this passion into an awesome career choice. Feel free to look through my work and provide any feedback as I am still learning and would cherish the opportunity to learn more about coding optimization and best practices.
 
